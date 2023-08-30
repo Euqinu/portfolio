@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.179e9dc0.css",
-    "main.js": "/portfolio/static/js/main.9857e54c.js",
+    "main.css": "/portfolio/static/css/main.57a558ae.css",
+    "main.js": "/portfolio/static/js/main.18ae9238.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/researchpaper.png": "/portfolio/static/media/researchpaper.88d482f94de48e50da41.png",
     "static/media/computer.png": "/portfolio/static/media/computer.2b79fea446d1ae519230.png",
@@ -29,12 +29,12 @@
     "static/media/Tailwind.svg": "/portfolio/static/media/Tailwind.d84a6f369e7170891c4a19587ccf78e1.svg",
     "static/media/Vue.svg": "/portfolio/static/media/Vue.9f537ef871539b63299dea9ec24182f4.svg",
     "static/media/Javascript.svg": "/portfolio/static/media/Javascript.b879f838faf1cb951d1c2230fd933a39.svg",
-    "main.179e9dc0.css.map": "/portfolio/static/css/main.179e9dc0.css.map",
-    "main.9857e54c.js.map": "/portfolio/static/js/main.9857e54c.js.map",
+    "main.57a558ae.css.map": "/portfolio/static/css/main.57a558ae.css.map",
+    "main.18ae9238.js.map": "/portfolio/static/js/main.18ae9238.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.179e9dc0.css",
-    "static/js/main.9857e54c.js"
+    "static/css/main.57a558ae.css",
+    "static/js/main.18ae9238.js"
   ]
 }
