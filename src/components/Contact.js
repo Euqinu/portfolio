@@ -68,7 +68,7 @@ const Contact = () => {
                             <label className='text-xs font-medium'>Message</label><br />
                             <textarea className='outline-none w-[100%]'></textarea>
                         </div>
-                        <button className='px-6 py-4 ml-36 bg-white rounded-2xl font-bold'>Send message</button>
+                        <button className='px-6 py-4 mb-4 md:ml-36 bg-white rounded-2xl font-bold'>Send message</button>
                     </form>
                 </div>
 

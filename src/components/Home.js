@@ -91,7 +91,7 @@ const Home = () => {
                 <div className="p-8 ml-[20%] md:ml-0">
                     <div className="relative z-[0]">
                         <img className=" h-40 w-15 md:h-80 md:w-30" src={Computer} alt='computer' />
-                        <h1 className="font-semibold text-xs absolute top-[25%] left-[30%] md:text-lg md:left-[45%]">
+                        <h1 className="font-semibold text-xs absolute top-[25%] left-[37%] md:text-lg md:left-[45%]">
                             <Typewriter
                                 words={['Coder', 'full-stack', 'web dev', 'design', 'blockchain']}
                                 loop={0}
