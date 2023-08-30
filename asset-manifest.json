@@ -1,16 +1,40 @@
 {
   "files": {
-    "main.css": "/uniqueportfolio/static/css/main.073c9b0a.css",
-    "main.js": "/uniqueportfolio/static/js/main.1d4d2c8d.js",
+    "main.css": "/uniqueportfolio/static/css/main.179e9dc0.css",
+    "main.js": "/uniqueportfolio/static/js/main.5fa63558.js",
     "static/js/787.1ed0c42c.chunk.js": "/uniqueportfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/researchpaper.png": "/uniqueportfolio/static/media/researchpaper.88d482f94de48e50da41.png",
+    "static/media/computer.png": "/uniqueportfolio/static/media/computer.2b79fea446d1ae519230.png",
+    "static/media/nitr.png": "/uniqueportfolio/static/media/nitr.8d250fbe41e24d1fe80c.png",
+    "static/media/authentication.jpg": "/uniqueportfolio/static/media/authentication.8c04ff41be48c22ebfbd.jpg",
+    "static/media/profilepic.jpg": "/uniqueportfolio/static/media/profilepic.b09ad6fc61a58a6269b1.jpg",
+    "static/media/gunviolenceUI.jpg": "/uniqueportfolio/static/media/gunviolenceUI.ea6db4948b8462e60422.jpg",
+    "static/media/Docker.svg": "/uniqueportfolio/static/media/Docker.3253a6fe64f326e90f1716b7069eeeb8.svg",
+    "static/media/Node.svg": "/uniqueportfolio/static/media/Node.e32899ebaac3d46dbea971d83b250541.svg",
+    "static/media/React.svg": "/uniqueportfolio/static/media/React.04929d7107dbeb83d612dfe15b0c7a07.svg",
+    "static/media/Postman.svg": "/uniqueportfolio/static/media/Postman.e65afafee644ce9fe8a727d01b403189.svg",
+    "static/media/Sass.svg": "/uniqueportfolio/static/media/Sass.8aa78a8393470431c8036541f0708bd7.svg",
     "static/media/logo.svg": "/uniqueportfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/Java.svg": "/uniqueportfolio/static/media/Java.9bc4457cfe2b661d346ed769bc9d9e31.svg",
+    "static/media/CSS.svg": "/uniqueportfolio/static/media/CSS.3ad43c002f1db0f50d3daa8be7d4275f.svg",
+    "static/media/SQL.svg": "/uniqueportfolio/static/media/SQL.efb7363b2e231ddf7a5c31626c04099d.svg",
+    "static/media/bootstrap.svg": "/uniqueportfolio/static/media/bootstrap.997c463dca63c915b9a51f1caedef8e1.svg",
+    "static/media/MongoDB.svg": "/uniqueportfolio/static/media/MongoDB.1aca075d5cce0819fea7ea0902d94ce4.svg",
+    "static/media/Flutter.svg": "/uniqueportfolio/static/media/Flutter.9a496ae25b064ea252617eecbce6d6b7.svg",
+    "static/media/Scala.svg": "/uniqueportfolio/static/media/Scala.78f5243401414077d796ccc18e8c3c67.svg",
+    "static/media/Typescript.svg": "/uniqueportfolio/static/media/Typescript.a6305a733dd55243980aec55f96f70c5.svg",
+    "static/media/Git.svg": "/uniqueportfolio/static/media/Git.c60b7e5ae8ec2562f23fdddcab300026.svg",
+    "static/media/Figma.svg": "/uniqueportfolio/static/media/Figma.c091dd4c34c3424c361435c82530e5a6.svg",
     "index.html": "/uniqueportfolio/index.html",
-    "main.073c9b0a.css.map": "/uniqueportfolio/static/css/main.073c9b0a.css.map",
-    "main.1d4d2c8d.js.map": "/uniqueportfolio/static/js/main.1d4d2c8d.js.map",
+    "static/media/Tailwind.svg": "/uniqueportfolio/static/media/Tailwind.d84a6f369e7170891c4a19587ccf78e1.svg",
+    "static/media/Vue.svg": "/uniqueportfolio/static/media/Vue.9f537ef871539b63299dea9ec24182f4.svg",
+    "static/media/Javascript.svg": "/uniqueportfolio/static/media/Javascript.b879f838faf1cb951d1c2230fd933a39.svg",
+    "main.179e9dc0.css.map": "/uniqueportfolio/static/css/main.179e9dc0.css.map",
+    "main.5fa63558.js.map": "/uniqueportfolio/static/js/main.5fa63558.js.map",
     "787.1ed0c42c.chunk.js.map": "/uniqueportfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.1d4d2c8d.js"
+    "static/css/main.179e9dc0.css",
+    "static/js/main.5fa63558.js"
   ]
 }
